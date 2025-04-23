@@ -5,6 +5,7 @@
 }
 .container {
   width: 70vw;
+  height: 100vh;
   margin: auto;
   text-align: center;
   border: 5px solid black;
