@@ -5,13 +5,10 @@
 }
 .container {
   width: 70vw;
-  height: 100vh;
   margin: auto;
   text-align: center;
   border: 5px solid black;
   border-radius: 2rem;
-  justify-content: space-evenly;
-  /* padding: 10px; */
 }
 
 body {
